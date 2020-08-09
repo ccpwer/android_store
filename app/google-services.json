@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "535720360346",
+    "firebase_url": "https://wr3d-store.firebaseio.com",
+    "project_id": "wr3d-store",
+    "storage_bucket": "wr3d-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535720360346:android:2c346fadadd62cf0",
+        "android_client_info": {
+          "package_name": "nba.com.wr3d_second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535720360346-iejhcngbfa5ve77sks9qht6gduqvht7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nba.com.wr3d_second",
+            "certificate_hash": "dfdbacf38b33afeb7633700b79cac56d9bc3c477"
+          }
+        },
+        {
+          "client_id": "535720360346-dd2hmi4ntvu4m9f23so3mc4gf9d18j5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ayD_2rTLxs6ML_CL2HsRe2uwjjO3Sc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535720360346-dd2hmi4ntvu4m9f23so3mc4gf9d18j5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

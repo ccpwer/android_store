@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_mods"
+        android:icon="@drawable/ic_videogame_asset_black_24dp"
+        android:title="Mods"/>
+
+    <item
+        android:id="@+id/action_textures"
+        android:icon="@drawable/ic_photo_size_select_actual_black_24dp"
+        android:title="Textures"/>
+
+    <item
+        android:id="@+id/action_person"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Person"/>
+
+</menu>
